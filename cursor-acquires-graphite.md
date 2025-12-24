@@ -21,5 +21,5 @@ Graphite، اللّي تأسسّات قبل خمس سنين من لوتسکي و
 ,
   "pagination.previous": "اللّي فات",
   "pagination.next": "اللّي جاي",
-  "pagination.goToPreviousPage": "مشي للصفحة اللي فاتت",
-  "pagination.goToNextPage": "مشي للصفحة الجاية"
+  "pagination.goToPreviousPage": "سير للصّفحة الفايتة",
+  "pagination.goToNextPage": "سير للصّفحة الجايّة"
