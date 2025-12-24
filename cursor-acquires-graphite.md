@@ -20,6 +20,6 @@ Graphite، اللّي تأسسّات قبل خمس سنين من لوتسکي و
 
 ,
   "pagination.previous": "اللّي فاتت",
-  "pagination.next": "اللّي جايّة",
+  "pagination.next": "الصّفحة الجايّة",
   "pagination.goToPreviousPage": "سير للصّفحة الفايتة",
   "pagination.goToNextPage": "سير للصّفحة الجايّة"
