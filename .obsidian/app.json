@@ -1,0 +1,14 @@
+{
+  "trashOption": "system",
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
