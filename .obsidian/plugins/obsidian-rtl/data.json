@@ -1,9 +1,10 @@
 {
   "fileDirections": {
     "cursor-acquires-graphite.md": "rtl",
-    "google-is-fixing-siri.md": "rtl"
+    "google-is-fixing-siri.md": "rtl",
+    "CONTRIBUTING.md": "rtl"
   },
-  "defaultDirection": "auto",
+  "defaultDirection": "rtl",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,
   "setYamlDirection": false,

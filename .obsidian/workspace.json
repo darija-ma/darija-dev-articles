@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursor-acquires-graphite.md",
+                "file": "CONTRIBUTING.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cursor-acquires-graphite"
+              "title": "CONTRIBUTING"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "3348b9944394a5ce",
   "lastOpenFiles": [
+    "cursor-acquires-graphite.md",
     "CONTRIBUTING.md",
     "google-is-fixing-siri.md",
-    "cursor-acquires-graphite.md",
     "google-is-fixing-siri.mdx",
     "cursor-acquires-graphite.mdx",
     "Apple غادي تخلص لـGoogle مليار دولار کل عام باش تحسّن Siri بالذکاء الاصطناعي ديال Gemini.md"
